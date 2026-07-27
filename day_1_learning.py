@@ -38,7 +38,6 @@ print("Multiplication (a * b):", a * b)
 print("Division (a / b):", a / b)          # Always yields a float
 print("Modulo / Remainder (a % b):", a % b)
 print("Power / Exponentiation (a ** b):", a ** b)
-
 # Relational / Comparison Operators
 print("\n--- Relational Operators ---")
 print("a > b:", a > b)
