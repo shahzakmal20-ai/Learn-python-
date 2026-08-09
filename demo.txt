@@ -1,0 +1,8 @@
+I am writing to the file this will replace the entire content.
+hat will be appended to the file.
+
+This line will be appended to the file.
+This is another line that will be appended to the file.
+
+This line will be appended to the file.
+This is another line that will be appended to the file.
