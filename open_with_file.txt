@@ -1,0 +1,2 @@
+This is a new data by write mode.
+This is another line that will be written to the file.
