@@ -20,10 +20,10 @@ class Student:
 
 
 
-# student1 = Student("Ali", 2023, 88.5)   
-# student1.greet()
-# student1.get_details()
-# print(f"I got {student1.get_percentage()}% in my graduation.")
+student1 = Student("Ali", 2023, 88.5)   
+student1.greet()
+student1.get_details()
+print(f"I got {student1.get_percentage()}% in my graduation.")
 
 
 
@@ -47,9 +47,9 @@ class student2:
         average = total / len(self.marks)
         return average
 
-# student1 = student2("Ali", [85, 85, 86, 90, 88])
-# student1.greet()
-# print(f"Average marks: {student1.average_marks()}")
+student1 = student2("Ali", [85, 85, 86, 90, 88])
+student1.greet()
+print(f"Average marks: {student1.average_marks()}")
 
 
 
